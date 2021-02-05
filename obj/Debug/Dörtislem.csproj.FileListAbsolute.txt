@@ -1,0 +1,10 @@
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\bin\Debug\Dörtislem.exe.config
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\bin\Debug\Dörtislem.exe
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\bin\Debug\Dörtislem.pdb
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.csprojAssemblyReference.cache
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.Form1.resources
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.Properties.Resources.resources
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.csproj.GenerateResource.cache
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.exe
+C:\Users\AbdullahSaitKoc\source\repos\Dörtislem\Dörtislem\obj\Debug\Dörtislem.pdb
